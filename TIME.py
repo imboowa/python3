@@ -1,6 +1,6 @@
 import time
 
-tik_tok = int(input("enter a number of seconds: "))  # enter some time to be calculated
+tik_tok = int(input("Enter a number of seconds: "))  # enter some time to be calculated
 
 for i in range(tik_tok,0,-1):  # iterate for every second
     seconds = int(i) % 60  # the seconds shouldn't exceed 60 seconds(% means modulus in math)
