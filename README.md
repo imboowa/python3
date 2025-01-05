@@ -21,9 +21,13 @@ This is a simple Python program that prints the current time to the console at r
 2. Navigate to the directory containing the script.
 3. Run the program using the following command:
    ```bash
-   python demo_clock.py
+   python fileName.py
    ```
-4. The current time will be printed to the console at regular intervals.
+   or
+   ```bash
+   python3 fileName.py
+   ```
+5. The current time will be printed to the console at regular intervals.
 
 ## Notes
 - Press `Ctrl+C` in the terminal to stop the program.
