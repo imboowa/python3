@@ -4,7 +4,7 @@
 This is a simple Python program that prints the current time to the console at regular intervals. It demonstrates basic time-handling functionality using Python's standard libraries like the time module. This program does not include a graphical user interface; all output is displayed in the terminal or console.
 
 ## Features
-- Displays the current time in **Weeks:Days:Hours:Minutes:Seconds** format.
+- Displays the current time in **Weeks : Days : Hours : Minutes : Seconds** format.
 - Updates the time continuously at regular intervals.
 - Demonstrates basic usage of Python's `time` library.
 
